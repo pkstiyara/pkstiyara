@@ -12,5 +12,6 @@
 
 
 ## 📊 Github Stats
-[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pkstiyara)](https://github.com/pkstiyara/github-readme-stats)
+<p align="center">
+[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pkstiyara)](https://github.com/pkstiyara/github-readme-stats) </p>
 
