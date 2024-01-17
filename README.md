@@ -25,15 +25,16 @@
 ![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
+
 ## 🔥 Streak Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkstiyara&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pkstiyara&theme=radical)](https://git.io/streak-stats)
+
 
 ## 📈 GitHub Activity Graph
 
-![Pankaj's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pkstiyara&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pkstiyara&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🚀 Additional Stuff
 
