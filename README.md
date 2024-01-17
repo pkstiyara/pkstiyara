@@ -29,8 +29,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkstiyara&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pkstiyara)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pkstiyara&theme=radical)](https://git.io/streak-stats)
 
 ## 📈 GitHub Activity Graph
 
 ![Pankaj's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pkstiyara&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
+## 🚀 Additional Stuff
+
+- You can check out my [portfolio website](https://your-portfolio-website-url.com) for more details about my projects and achievements.
+- Currently working on an exciting project using [Vue.js](https://vuejs.org/), stay tuned for updates!
