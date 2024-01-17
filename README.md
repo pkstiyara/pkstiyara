@@ -12,6 +12,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstiyara&layout=compact&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
 
+## 🔥 Streak Statistics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkstiyara&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
@@ -24,11 +28,19 @@
 ![Jenkins](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+![Jira](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=0052CC)
+![Confluence](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=172B4D)
+![Bitbucket](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=0052CC)
+![SonarQube](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=4E9BCD)
+![Trivy](https://img.shields.io/badge/Tools-Trivy-informational?style=flat&logo=trivy&logoColor=white&color=394240)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![Helm](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=277A9F)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 
 
-## 🔥 Streak Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkstiyara&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
