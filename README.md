@@ -12,9 +12,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstiyara&layout=compact&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstiyara&layout=compact&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
-
 ## 🔥 Streak Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkstiyara&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
