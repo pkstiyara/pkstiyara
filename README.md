@@ -8,9 +8,6 @@
 
 ## 📊 GitHub Stats
 
-[![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkstiyara&count_private=true&show_icons=true&hide=stars,contribs&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
-
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkstiyara&count_private=true&show_icons=true&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstiyara&layout=compact&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
