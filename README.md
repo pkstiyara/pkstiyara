@@ -10,6 +10,9 @@
 
 [![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkstiyara&count_private=true&show_icons=true&hide=stars,contribs&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
 
+[![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-blueviolet?style=flat-square&logo=github)](https://github.com/pkstiyara)
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstiyara&layout=compact&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
 
 ## 🔥 Streak Statistics
