@@ -10,7 +10,12 @@
 
 [![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkstiyara&count_private=true&show_icons=true&hide=stars,contribs&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
 
-[![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-blueviolet?style=flat-square&logo=github)](https://github.com/pkstiyara)
+
+[![Total PRs](https://img.shields.io/github/issues-pr/pkstiyara/pkstiyara?style=flat-square)](https://github.com/pkstiyara/pkstiyara/pulls)
+[![Closed PRs](https://img.shields.io/github/issues-pr-closed/pkstiyara/pkstiyara?color=success&style=flat-square)](https://github.com/pkstiyara/pkstiyara/pulls?q=is%3Apr+is%3Aclosed)
+[![Commits](https://img.shields.io/github/last-commit/pkstiyara/pkstiyara?style=flat-square)](https://github.com/pkstiyara/pkstiyara/commits/main)
+[![Activity](https://img.shields.io/github/commit-activity/m/pkstiyara/pkstiyara?style=flat-square)](https://github.com/pkstiyara/pkstiyara/graphs/commit-activity)
+
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstiyara&layout=compact&theme=radical)](https://github.com/pkstiyara/github-readme-stats)
