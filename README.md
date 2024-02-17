@@ -55,4 +55,4 @@
 ## 🚀 Additional Stuff
 
 - You can check out my [portfolio website](https://your-portfolio-website-url.com) for more details about my projects and achievements.
-- Currently working on an exciting project using [Vue.js](https://vuejs.org/),and Python for DevOps stay tuned for updates!
+- Currently working on an exciting project using [Vue.js](https://vuejs.org/),and Python for DevOps, Ansible, Kuberenets stay tuned for updates!
