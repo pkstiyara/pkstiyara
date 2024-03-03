@@ -55,4 +55,4 @@
 ## 🚀 Additional Stuff
 
 - You can check out my [portfolio website](https://your-portfolio-website-url.com) for more details about my projects and achievements.
-- Currently working on an exciting project using Terraform,and Python for DevOps, Ansible, Kuberenets stay tuned for further updates!
+- Currently working on an exciting project using Terraform,and Python for DevOps, Ansible, Kuberenets stay tuned for updates!
